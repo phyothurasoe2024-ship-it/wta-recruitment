@@ -24,7 +24,7 @@
             <div class="inline-flex items-center justify-center w-20 h-20 sm:w-24 sm:h-24 rounded-2xl bg-white mb-6 ring-1 ring-white/30 shadow-lg p-2">
                 <img src="{{ asset('images/WinThinLogo.png') }}" alt="WinThin Logo" class="h-14 w-14 sm:h-16 sm:w-16">
             </div>
-            <h1 class="text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight text-slate-900" style="color: white; font-weight: bold;">Join the WTA Team</h1>
+            <h1 class="text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight text-slate-900" style="color: white; font-weight: bold;"~~>Join the WTA Team</h1>
             <p class="mt-4 text-base sm:text-lg text-slate-600 max-w-2xl mx-auto" style="color: white; font-weight: bold;">
                 Submit your CV and we'll get back to you about an interview. The form takes about 3 minutes.
             </p>
